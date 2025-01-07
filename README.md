@@ -47,25 +47,11 @@ Refer to the **blueprint** for the project for a visual representation of the wo
 - A communication platform supporting automation (e.g., Superchat).
 - Basic knowledge of Python and workflow automation.
 
-### Installation
+### BluePrint
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd personal-assistant-project
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Configure the environment variables:
-   - Add your OpenAI API key.
-   - Configure the communication channel credentials.
+1. Download the Repository
 
-4. Run the project:
-   ```bash
-   python main.py
-   ```
+2. Import bluprint_make.json inside your make.com scenario
 
 ### Usage
 
